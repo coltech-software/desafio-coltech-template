@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coltech.jpeg" alt="Coltech" />
+  <img src="./assets/darth-vader.png" alt="Coltech" />
 </p>
 
 <br>
