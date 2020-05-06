@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coltech.jpeg" height="450" width="275" alt="Coltech" />
+  <img src="./assets/coltech.jpeg" alt="Coltech" />
 </p>
 
 <br>
