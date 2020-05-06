@@ -1,24 +1,25 @@
 <h3 align="center">
-   Conceitos do Node.js
+   Conceitos do Node js
 </h3>
 
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-backend">Sobre o desafio backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-frontend">Sobre o desafio frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o desafio backend
 
-Nessa Atividade, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+Nessa Atividade, você deve criar uma aplicação para treinar o que você aprendeu até agora no Nodejs!
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ### Template da aplicação
 
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como template ( obs: tem como colocar padrao no github).
+Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como template.
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
@@ -61,7 +62,7 @@ Bons estudos <3
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o desafio frontend
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
