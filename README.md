@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./assets/coltech.jpeg" height="150" width="175" alt="Coltech" />
+</p>
+
+<br>
+
+<div align="center">
+
 <h3 align="center">
    Conceitos do Node js
 </h3>
